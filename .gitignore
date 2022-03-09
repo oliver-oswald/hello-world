@@ -1,0 +1,9 @@
+#Ignore xml files
+*.xml
+
+# but track pom.xml
+!pom.xml
+
+#ignore target folder
+target/
+
